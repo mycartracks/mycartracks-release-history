@@ -5,7 +5,7 @@ https://play.google.com/store/apps/details?id=com.nomanprojects.mycartracks&hl=e
 Beta version is available here:  
 https://play.google.com/apps/testing/com.nomanprojects.mycartracks
 
-# Old versions
+# Old version
 [9343119](https://www.google.com) -> Android 4.0+, 9/5/2018   
 [934297](https://www.google.com) -> Android 3.0+, 8/4/2016  
 [934293](https://www.google.com) -> Android 2.3+, 6/25/2016  
