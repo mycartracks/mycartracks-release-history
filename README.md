@@ -1,6 +1,6 @@
 # Latest version
 Latest stable version of Android app is available here:  
-https://play.google.com/store/apps/details?id=com.nomanprojects.mycartracks&hl=en
+https://play.google.com/store/apps/details?id=com.nomanprojects.mycartracks
 
 Beta version is available here:  
 https://play.google.com/apps/testing/com.nomanprojects.mycartracks
