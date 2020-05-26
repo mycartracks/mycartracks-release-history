@@ -6,6 +6,7 @@ Beta version is available here:
 https://play.google.com/apps/testing/com.nomanprojects.mycartracks
 
 Due to the COVID situation and due to adjusted work schedules in Google, latest version 2.6.2.6 is also available here:
+
 [9343231](https://github.com/mycartracks/mycartracks-release-history/blob/master/9343231.apk?raw=true) -> Android 5.0+
 
 # Old version
